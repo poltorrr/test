@@ -1,5 +1,1 @@
-<?php phpinfo();
-echo "str";
-echo "str";
-echo "str";
-?>
+<?php echo 'test'; ?>
